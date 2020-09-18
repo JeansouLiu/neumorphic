@@ -38,6 +38,13 @@ Source: https://pxhere.com/ja/photo/32163
 
 == Changelog ==
 
+= v1.2.0 =
+add theme-support custom-line-height, custom-units, navigation-widgets(html5)
+
+= v1.1.9 =
+Update: Overall refactoring of the block style
+Change: Refactoring of css loading
+
 = v1.1.8 =
 Fix: Problem about customizer color settings are not reflected
 Fix: jQuery selector expression
